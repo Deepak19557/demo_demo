@@ -7,6 +7,10 @@ class User < ApplicationRecord
 		puts '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'
 		
 	end
+
+	def jj
+		puts 'jj'
+	end
 end
 
 
